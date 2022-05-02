@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://wallpaperbat.com/img/512156-white-clouds-wallpaper-top-free-white-clouds-background.jpg");
+}
+#parent{
+text-align: center;
+}
+input{
+padding: 7px 90px 7px 90px;
+}
+button{
+padding: 7px 50px 7px 50px;
+background-color: black;
+color: white;
+cursor: pointer;
+}
+#container{
+font-size: x-large;
+}
+#main{
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+}
+img{
+    height: 70px;
+    width: 180px;
+}
